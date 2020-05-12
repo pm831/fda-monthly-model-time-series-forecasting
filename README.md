@@ -4,7 +4,7 @@
 
 ## Abstract:
 
-## Induststry:
+## Industry:
 
 ## Overview
 
