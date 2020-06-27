@@ -19,5 +19,8 @@ Link: https://catalog.data.gov/dataset/monthly-modal-time-series
 ### Software:
 Tableau
 
-### Quick Data Visualization
+### Data Visualization
+
+https://public.tableau.com/profile/pujan.malavia#!/
+
 ![Monthly_Modal_Time_Series_PDF](https://user-images.githubusercontent.com/19572673/80660948-42776780-8a5b-11ea-8d8f-06e20cb6301a.PNG)
