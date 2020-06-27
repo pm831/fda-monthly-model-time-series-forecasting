@@ -16,8 +16,6 @@ Data Visualization on Monthly Model Time Series through Heat Maps, Table Maps, a
 Monthly Modal Time Series Dataset
 Link: https://catalog.data.gov/dataset/monthly-modal-time-series
 
-### Data
-
 ### Data Fields:
 
 5 DIgit NTD ID
