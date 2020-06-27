@@ -9,6 +9,14 @@ Modal Service and Safety & Security time series delineated by month. Includes al
 ### Industry:
 Transportation 
 
+### Company Information: 
+
+The Federal Transit Administration (FTA) is an agency within the United States Department of Transportation (DOT) that provides financial and technical assistance to local public transportation systems. The FTA is one of ten modal administrations within the DOT. Headed by an Administrator who is appointed by the President of the United States, the FTA functions through a Washington, D.C., headquarters office and ten regional offices which assist transit agencies in all states, the District of Columbia, and the territories. Until 1991, it was known as the Urban Mass Transportation Administration (UMTA).
+
+Public transportation includes buses, subways, light rail, commuter rail, monorail, passenger ferry boats, trolleys, inclined railways, and people movers. The federal government, through the FTA, provides financial assistance to develop new transit systems and improve, maintain, and operate existing systems. The FTA oversees grants to state and local transit providers, primarily through its ten regional offices. These providers are responsible for managing their programs in accordance with federal requirements, and the FTA is responsible for ensuring that grantees follow federal mandates along with statutory and administrative requirements.
+
+https://en.wikipedia.org/wiki/Federal_Transit_Administration
+
 ### Use Case:
 Data Visualization on Monthly Model Time Series through Heat Maps, Table Maps, and Time Series Forecasting
 
